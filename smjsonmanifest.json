@@ -1,0 +1,19 @@
+{
+  "name": "Simply masarap",
+  "short_name": "simply masarap",
+  "description": "Simple ingredients but yummy!",
+  "start_url": "https://jeepneytraveller.blogspot.com",
+  "background_color": "#fbeed2",
+  "theme_color": "#fbeed2",
+  "display": "fullscreen",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-ZIKUXkPfPgE/Xr00vu0EblI/AAAAAAAABqI/e7KndhgnRQU5MOLQ4ND1rx9F-VUGUf8iACPcBGAYYCw/s1600/SIMPLE%2BPERO%2BMASARAP%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+           {
+    "src": "https://1.bp.blogspot.com/-PL9HWSpqhEs/Xr00xaDGj5I/AAAAAAAABqM/WFukH3R-A8YTffLStiIewwghfcAMuSjQgCPcBGAYYCw/s320/SIMPLE%2BPERO%2BMASARAP%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+            }]
+}
